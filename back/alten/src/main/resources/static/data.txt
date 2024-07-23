@@ -1,0 +1,50 @@
+{
+    "name": "AltenProduct1",
+    "description" : "Alten description of object 1",
+    "price" : "25",
+    "quantity" : "1",
+    "inventoryStatus" : "Alten inventory status One",
+    "category" : "Alten category IIS",
+    "image" : "Alten image 1",
+    "rating" : "3"
+}
+{
+    "name": "AltenProduct2",
+    "description" : "Alten description of object 2",
+    "price" : "30",
+    "quantity" : "2",
+    "inventoryStatus" : "Alten inventory status Two",
+    "category" : "Alten category SVU",
+    "image" : "Alten image 2",
+    "rating" : "4"
+}
+{
+    "name": "AltenProduct3",
+    "description" : "Alten description of object 3",
+    "price" : "35",
+    "quantity" : "3",
+    "inventoryStatus" : "Alten inventory status Three",
+    "category" : "Alten category AIS",
+    "image" : "Alten image 3",
+    "rating" : "2"
+}
+{
+    "name": "AltenProduct4",
+    "description" : "Alten description of object 4",
+    "price" : "40",
+    "quantity" : "4",
+    "inventoryStatus" : "Alten inventory status Four",
+    "category" : "Alten category IIS",
+    "image" : "Alten image 4",
+    "rating" : "5"
+}
+{
+    "name": "AltenProduct5",
+    "description" : "Alten description of object 5",
+    "price" : "50",
+    "quantity" : "5",
+    "inventoryStatus" : "Alten inventory status Five",
+    "category" : "Alten category SVU",
+    "image" : "Alten image 5",
+    "rating" : "1"
+}
